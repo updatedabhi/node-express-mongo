@@ -1,0 +1,1 @@
+//  Instead of repeating the route path multiple times for each method, you can define them together using app.route().

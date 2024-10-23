@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "age": 25,
+    "emoji": "😀"
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "age": 30,
+    "emoji": "😎"
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "age": 28,
+    "emoji": "😄"
+  },
+  {
+    "id": 4,
+    "name": "Diana",
+    "age": 22,
+    "emoji": "😊"
+  },
+  {
+    "id": 5,
+    "name": "Eve",
+    "age": 27,
+    "emoji": "😉"
+  }
+]
